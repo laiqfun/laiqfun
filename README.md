@@ -1,9 +1,11 @@
-# LaiZhuiqiu | Lai追求
+# Laiqfun | Lai追求
 *A boy who want to create something special* 😎
+
 ## ✨ Doing Now
-[StarEngine](https://github.com/LaiZhuiqiu/StarEngine)
--- A engine which can create a special space.
-## 🎈 Organization
-[tongstarge](https://github.com/tongstarge)
+I am thinking of a super awesome design website.
+It could be [starblog](https://github.com/genius-alray/star-blog)✨
+
 ## 😋 Friends
-[AlanBest](https://github.com/alan-best) [NaHCO3 | 小苏打](https://github.com/NaHCO3-code) ... and more
+[AlanBest](https://github.com/genius-alray)
+[NaHCO3](https://github.com/NaHCO3-code) 
+... and more
