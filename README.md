@@ -2,8 +2,7 @@
 *A boy who wants to create something special* 😎
 
 ## ✨ Doing Now
-I am thinking of a super awesome design website.
-It could be [starblog](https://github.com/genius-alray/star-blog)✨
+I am thinking of a super awesome design website--[mywebsite](https://www.laiq.fun)✨
 
 ## 😋 Friends
 [AlanBest](https://github.com/genius-alray)
