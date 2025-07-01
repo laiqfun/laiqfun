@@ -1,5 +1,5 @@
 # Laiqfun | Lai追求
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC64D&width=435&lines=A+boy+who+wants+to+create+something+special+😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC64D&width=600&lines=A+boy+who+wants+to+create+something+special+😎)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Stack  
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
