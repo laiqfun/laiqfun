@@ -25,7 +25,7 @@
 </div>
 
 ## ✨ Doing Now
-I'm building a super awesome design website → [mywebsite](https://www.laiq.fun) ✨
+I'm building a super awesome design website → [my website](https://www.laiq.fun) ✨
 
 ## 🌱 Learning Now
 | 技术       | 进度      | 应用项目       |
