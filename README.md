@@ -25,11 +25,12 @@
 </div>
 
 ## ✨ Doing Now
-I'm building a super awesome design website → [my website](https://www.laiq.fun) ✨
+I'm building a super awesome design website → [my website](https://www.laiq.fun) ✨ I have still been thinking about modifying the design.
+
+一个灵感来源于bilibili会员购快递盒的抓娃娃游戏 → [ClawGame](https://github.com/laiqfun/claw-game)
 
 ## 🌱 Learning Now
 | 技术       | 进度      | 应用项目       |
 |------------|-----------|----------------|
-| **Rust**   | `60%` ![进度条](https://geps.dev/progress/60) | 正在开发多线程web服务器 |
-| **Unity**    | `10%` ![进度条](https://geps.dev/progress/10) | 正在开发2D横板叙事游戏 |
+| **Unity**    | `20%` ![进度条](https://geps.dev/progress/10) | 正在学习开发3D游戏 |
 
