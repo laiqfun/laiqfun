@@ -32,5 +32,5 @@ I'm building a super awesome design website → [my website](https://www.laiq.fu
 ## 🌱 Learning Now
 | 技术       | 进度      | 应用项目       |
 |------------|-----------|----------------|
-| **Unity**    | `20%` ![进度条](https://geps.dev/progress/10) | 正在学习开发3D游戏 |
+| **Unity**    | `20%` ![进度条](https://geps.dev/progress/20) | 正在学习开发3D游戏 |
 
